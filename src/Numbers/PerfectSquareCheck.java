@@ -4,11 +4,11 @@ public class PerfectSquareCheck {
 	
 	public static void main(String[] args) {
 		
-		int num = 16;
+		int num = 36;
 		boolean isPerfect = false;
 
 		if (num >= 0) {
-			for (int i = 1; i < num; i++) {
+			for (int i = 0; i < num; i++) {
 				if (i * i == num) {
 					isPerfect = true;
 					break;
