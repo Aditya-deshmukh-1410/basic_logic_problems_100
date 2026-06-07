@@ -9,7 +9,7 @@ public class DaysToYears {
 		
 		int remainDays = days % 365;
 		
-		int weeks = remainDays / 7;
+		int weeks = remainDays / 7; 
 		
 		int day = remainDays % 7;
 		
