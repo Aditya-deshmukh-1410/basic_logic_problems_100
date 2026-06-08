@@ -6,7 +6,7 @@ public class DecimalToBinary {
 	public static void main(String[] args) {
 		
 		System.out.print("Enter the number to convert Decimal to Binary :");
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		int num = sc.nextInt();
 
 		String Binary = "";

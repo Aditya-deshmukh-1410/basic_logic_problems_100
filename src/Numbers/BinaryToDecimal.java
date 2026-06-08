@@ -10,7 +10,7 @@ public class BinaryToDecimal {
 		 for(int i = 1; i<=power ; i++) {
 			 result = result * base;
 		 }
-		 return result;
+		 return result;   
 	}
 	
 	

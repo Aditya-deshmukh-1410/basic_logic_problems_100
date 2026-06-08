@@ -9,4 +9,4 @@ public class CelciusToFarenheit {
 		System.out.println("temp in farenheit: " +f);
 	}
 
-}
+}   
