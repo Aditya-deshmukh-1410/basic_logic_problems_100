@@ -2,6 +2,15 @@ package Arrays;
 
 public class SecondLargestElement {
 	public static void main(String[] args) {
+
+		// Q: Find the 2nd largest element in an array
+		
+		// Approach: Track two variables - largest & secondLargest
+		// Whenever a new largest is found,
+		// old largest becomes the 2nd largest
+		
+		// Note: Integer.MIN_VALUE avoids wrong results for negative numbers
+		// Note: arr[i] != largest handles duplicate values ex: {5,5,3} → 2nd largest = 3 not 5
 		
 		int arr[]= {4,1,2,5,5,3};
 		int largest = arr[0];
