@@ -7,7 +7,7 @@ public class NumSwaq {
 		int b = 20;
 		
 		System.out.println("before swapping ");
-		System.out.println(a+" and "+b);
+		System.out.println(a+" and "+b);  
 		
 		a = a + b;
 		b = a - b;
