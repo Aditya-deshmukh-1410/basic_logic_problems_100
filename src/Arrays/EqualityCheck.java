@@ -1,5 +1,13 @@
 package Arrays;
 
+// Two arrays are considered EQUAL if:
+		// 1. They have the SAME LENGTH
+		// 2. Every element at the SAME INDEX is identical
+		// Example:
+		// arr1 = {1, 2, 3, 4, 5, 6}
+		// arr2 = {1, 2, 3, 4, 5, 7}
+		// arr1[5]=6 != arr2[5]=7 → NOT EQUAL 
+
 public class EqualityCheck {
 	public static void main(String[] args) {
 		
