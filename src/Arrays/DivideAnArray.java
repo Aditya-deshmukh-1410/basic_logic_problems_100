@@ -10,7 +10,7 @@ public class DivideAnArray {
 		int mid = arr1.length / 2;
 		
 		int arr2[] = new int[mid];
-		int arr3[] = new int[arr1.length - mid];
+		int arr3[] = new int[arr1.length - mid];   
 		
 		for (int i = 0; i < mid; i++) {
 			arr2[i] = arr1[i];
