@@ -14,7 +14,7 @@ public class LargestSumOfArray {
 		
 		for (int i = 0; i < a2.length; i++) {
 			result2 = result2 + a2[i];
-		}
+		}  
 		
 		if (result1 > result2) {
 			System.out.println("Array 1 has largest sum: "+result1);
