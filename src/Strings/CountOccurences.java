@@ -16,7 +16,7 @@ public class CountOccurences {
 			for (int j = i+1; j < ch.length; j++) {
 				if (ch[i] == ch[j]) {
 					count++;
-					ch[j] = ' ';
+					ch[j] = ' ';   
 				}
 			}
 			
