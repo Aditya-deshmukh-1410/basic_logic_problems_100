@@ -3,7 +3,7 @@ package Strings;
 public class StringContainsAnotherString {
 	public static void main(String[] args) {
 		
-		String str = "hhellohhellohel";
+		String str = "hhellohhellohel";  
 		String substr = "hello";
 		int count = 0;
 		
