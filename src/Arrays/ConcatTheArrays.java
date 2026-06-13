@@ -4,7 +4,7 @@ public class ConcatTheArrays {
 	public static void main(String[] args) {
 
 		// Concatenation means joining two arrays into one
-		// arr1 = {1, 2, 3}
+		// arr1 = {1, 2, 3} 
 		// arr2 = {4, 5, 6}
 		// arr3 = {1, 2, 3, 4, 5, 6}  ← arr1 + arr2 combined
 		

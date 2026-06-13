@@ -1,6 +1,6 @@
 # Basic Logic Problems 100 ☕
 
-A collection of 100 basic Java logic problems organized by topic.
+A collection of 100 basic Java logic problems organized by topic for practice
 
 ## 📁 Repository Structure
 
