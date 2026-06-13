@@ -6,7 +6,7 @@ public class ReverseTheOrder {
 		while(i<j) {
 			char temp = ch[i];
 			ch[i] = ch[j];
-			ch[j] = temp;
+			ch[j] = temp;  
 			
 			i++;
 			j--;
