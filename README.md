@@ -8,4 +8,5 @@ A collection of 100 basic Java logic problems organized by topic for practice
 |--------|-------------|
 | [Arrays](./src/Arrays) | Array manipulation and logic problems |
 | [Numbers](./src/Numbers) | Number based logic problems |
+| [Strings](./src/Strings) | Strings based logic problems |
 
