@@ -4,7 +4,7 @@ public class ShortestDistToChar {
 	public static void main(String[] args) {
 		
 		String str = "hello world";
-		char target = 'l';
+		char target = 'l';   
 		int lcount = 0 , rcount = 0;
 		
 		for (int i = 0; i < str.length(); i++) {
