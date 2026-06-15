@@ -8,7 +8,7 @@ public class VowelOrConsonantCheck {
 			c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U' ) {
 			System.out.println("its vowel");
 		} else if(c >= 'a'&& c<= 'z' || c >= 'A'&& c<= 'Z') {
-			System.out.println("consonant");
+			System.out.println("consonant"); 
 		}else {
 			System.out.println("not vowel nor Consonant");
 		}
