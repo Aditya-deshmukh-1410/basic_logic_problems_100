@@ -5,7 +5,7 @@ public class CapitalizeFirstAndLast {
 		
 		if (ch >= 'a' && ch <= 'z') {
 			int num = ch;
-			ch = (char) (num -32);
+			ch = (char) (num -32);   
 		}
 		return ch;
 	}
