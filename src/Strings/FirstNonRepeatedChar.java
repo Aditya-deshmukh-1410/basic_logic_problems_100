@@ -11,7 +11,7 @@ public class FirstNonRepeatedChar {
 			for (int j = 0; j < ch.length; j++) {
 				if (ch[i] == ch[j]) {
 					count++;
-				}
+				}  
 			}
 			
 			if (count == 1) {
