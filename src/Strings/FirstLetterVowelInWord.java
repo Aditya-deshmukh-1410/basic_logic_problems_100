@@ -6,7 +6,7 @@ public class FirstLetterVowelInWord {
 		String str = "an apple a day";
 		int count = 0;
 		
-		for (int i = 0; i < str.length(); i++) {
+		for (int i = 0; i < str.length(); i++) {  
 			
 			if (i == 0) {
 				if (str.charAt(i)=='a' || str.charAt(i)=='e' || str.charAt(i)=='i' || str.charAt(i)=='o' || str.charAt(i)=='u') {
