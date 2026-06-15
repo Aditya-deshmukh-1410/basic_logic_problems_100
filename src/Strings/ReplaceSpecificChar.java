@@ -6,7 +6,7 @@ public class ReplaceSpecificChar {
 		String str = "hello";
 		char change = 'e', target = 'x';
 		
-		char ch[] = str.toCharArray();
+		char ch[] = str.toCharArray();  
 		for (int i = 0; i < ch.length; i++) {
 			if (ch[i] == change) {
 				ch[i] = target;
