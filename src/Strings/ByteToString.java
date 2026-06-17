@@ -7,7 +7,7 @@ public class ByteToString {
 		
 		String s  = "";
 		
-		for (int i = 0; i < by.length; i++) {
+		for (int i = 0; i < by.length; i++) {   
 			s = s + (char)by[i];
 		}
 		
