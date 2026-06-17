@@ -2,6 +2,8 @@ package Strings;
 
 public class ParenthesisCheck {
 	public static void main(String[] args) {
+
+// "(" -> count ++  ")" -> count--
 		
 		String str = "((a+b))(";
 		int count = 0;  
